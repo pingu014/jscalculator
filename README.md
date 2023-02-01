@@ -1,6 +1,10 @@
 # 🌊 JS Calculator
 - Completed On: August 5th 2022
 
+### How to use:
+
+- [Download](https://github.com/m6sser/jscalculator/archive/refs/heads/main.zip) and extract .zip file, open index.html file
+
 ## 🐬 Find me here!
 - [![social](https://img.shields.io/static/v1?logo=twitter&link=https://twitter.com/m6sser&label=&message=m6sser&color=white&logoColor=white&style=flat&labelColor=4f94ef)](https://twitter.com/m6sser)
 [![social1](https://img.shields.io/static/v1?logo=instagram&link=https://instagram.com/fmesser11&label=&message=fmesser11&color=white&logoColor=white&style=flat&labelColor=4f94ef)](https://instagram.com/fmesser11)
